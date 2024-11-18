@@ -39,5 +39,5 @@ pip install -r requirements.txt
 Run the game:
 
 ```bash
-python minesweeper.py
+python runner.py
 ```
